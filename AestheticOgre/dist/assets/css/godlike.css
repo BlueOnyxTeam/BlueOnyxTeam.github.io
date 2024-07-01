@@ -3716,11 +3716,11 @@ img.rounded {
 
 .nk-logo-top.nk-logo-top-light, .nk-logo-top.nk-logo-top-light.nk-logo-top-solid {
     color: #0e0e0e;
-    background-color: rgba(255, 255, 255, 0.85);
+    background-color: rgba(1, 1, 1, 0.85);
 }
 
 .nk-header-opaque .nk-logo-top.nk-logo-top-light {
-    background-color: #fff;
+    background-color: #121212;
 }
 
 .nk-logo-top.nk-logo-top-transparent {
